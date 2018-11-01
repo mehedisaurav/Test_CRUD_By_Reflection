@@ -36,9 +36,7 @@ namespace ReflectionProduct
         public Form1()
         {
             InitializeComponent();
-
-           
-
+            
         }
 
         void  GetAllProduct()
