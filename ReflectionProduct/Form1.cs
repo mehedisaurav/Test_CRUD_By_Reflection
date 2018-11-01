@@ -36,7 +36,7 @@ namespace ReflectionProduct
         public Form1()
         {
             InitializeComponent();
-            
+            //hello Mehedi
         }
 
         void  GetAllProduct()
@@ -82,9 +82,7 @@ namespace ReflectionProduct
         {
             if(this.fieldPanel.Controls.Count > 0)
             {
-                this.fieldPanel.Controls.Clear();
-                
-
+                this.fieldPanel.Controls.Clear();               
             }
 
             object obj = GetType();
